@@ -7,8 +7,6 @@ import lombok.NoArgsConstructor;
 import org.springframework.data.mongodb.core.mapping.Document;
 
 @Data
-@AllArgsConstructor
-@NoArgsConstructor
 @Document
 public class Receiver {
 
